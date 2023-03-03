@@ -22,7 +22,7 @@
     "@types/mocha": "^2.2.44",
     "@types/node": "^10.17.13",
     "chai": "^3.5.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "mocha-junit-reporter": "^1.23.2",
     "ts-node": "^3.3.0",
     "tslint": "^5.20.1",
